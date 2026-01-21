@@ -1,0 +1,11 @@
+HelloWorld. Java tutorials. Console Application. Simple Input/Output. 
+
+******************************************************************************************************************************************************
+
+A console application in the Java programming language. Simple display of the phrase "Hello, World."
+Developed in the Apache NetBeans integrated environment (or in the Microsoft Visual Code Editor)
+
+******************************************************************************************************************************************************
+
+Консольное приложение на языке программирования Java. Простой вывод на экран фразы "Привет,Мир". 
+Разработано в интегрированной среде Apache NetBeans (в редакторе Microsoft Visual Code).
