@@ -1,4 +1,4 @@
-HelloWorld. Java tutorials. Console Application. Simple Input/Output. 
+HelloWorld. Java tutorials. Console Application. Simple Input/Output.
 ******************************************************************************************************************************************************
 
 A console application in the Java programming language. Simple display of the phrase "Hello, World."
